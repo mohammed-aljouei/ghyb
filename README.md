@@ -1,18 +1,15 @@
 # غيِّـب
 
-
 # الزبده موجوده بـ
 
-/src/App.tsx
-/public
-
+/src/App.tsx and /public
 
 # عشان تشغله
+
 npm start
 ما اشتغل؟
-npm i 
+npm i
 npm start
 ما اشتفل؟
 npm i react-hook-speech-to-text
 npm start
-
