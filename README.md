@@ -7,9 +7,13 @@
 # عشان تشغله
 
 npm start
-ما اشتغل؟
+ما اشتغل ؟ جرب
 npm i
+ثم
 npm start
-ما اشتفل؟
-npm i react-hook-speech-to-text
+ما اشتغل ؟ جرب
+npm i
+ثم
+react-hook-speech-to-text
+ثم
 npm start
